@@ -22,3 +22,6 @@ The Drawing Pad project is a simple yet versatile web application that allows us
 
 ![image](https://github.com/janith720/React-Drawing-pad/assets/85020879/f9334623-6c4b-4951-b4ae-58adb7e28c27)
 
+## Project
+
+https://simple-drawing-pad.netlify.app/
